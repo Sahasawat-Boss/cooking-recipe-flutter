@@ -1,7 +1,7 @@
 # easy_cooking
 
 <img width="389" height="710" alt="image" src="https://github.com/user-attachments/assets/b656f69b-5e94-4889-bb18-3dc9d0017355" />
-<img width="446" height="702" alt="image" src="https://github.com/user-attachments/assets/12764f31-d242-4fe5-bc7f-d6347fd93d82" />
+<img width="356" height="702" alt="Screenshot 2026-10-01 210527" src="https://github.com/user-attachments/assets/7610cb31-4f32-4322-be76-b5bffcdb7c15" />
 
 
 ## Getting Started
